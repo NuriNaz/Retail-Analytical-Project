@@ -1,6 +1,6 @@
 # Retail-Analytical-Project
 
-Retail analytics assignment — explanation and narrative
+Retail analytics  — explanation and narrative
 1) Data exploration and KPI analysis
 Key metrics calculated
  used SQL to compute the main KPIs, and surfaced them visually in Power BI.
